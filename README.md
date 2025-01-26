@@ -24,4 +24,4 @@ The datasets used in this project are stored on Google Drive. You can download t
 ### **How to Run**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/trial-success-classification.git
+   git clone https://github.com/thusharashenoi/Trial-Feasibility-Predictor.git
