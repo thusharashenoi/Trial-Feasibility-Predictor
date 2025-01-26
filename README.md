@@ -25,8 +25,11 @@ The datasets used in this project are stored on Google Drive. You can download t
 1. Clone this repository:
    ```bash
    git clone https://github.com/thusharashenoi/Trial-Feasibility-Predictor.git
+   
 2.Install dependencies:  `pip install -r requirements.txt`
+
 3. Download the dataset from the link provided and place it in the  `data` folder.
+   
 4. Run Classification.ipynb
 
 
